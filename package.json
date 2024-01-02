@@ -1,0 +1,17 @@
+{
+  "name": "wheatherappcli",
+  "version": "1.0.0",
+  "description": "Mostrar el clima de la ciudad deseada",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Eric Armando Herrera",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "chalk": "^5.3.0"
+  }
+}
